@@ -1,6 +1,6 @@
 <?php
 
-namespace Csv;
+namespace App\Csv;
 
 
 class Write

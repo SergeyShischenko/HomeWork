@@ -1,11 +1,11 @@
 <?php
 
-namespace Csv;
+namespace App\Csv;
 
 
 class Read
 {
-    public function readCsv($filePath)
+    public function read($filePath)
     {
         $handle = fopen($filePath, 'r');
         $array_line = [];

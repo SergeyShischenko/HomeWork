@@ -6,7 +6,7 @@
  * Time: 9:59
  */
 
-namespace Xml;
+namespace App\Xml;
 
 
 class Write

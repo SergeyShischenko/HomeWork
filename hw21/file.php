@@ -3,14 +3,17 @@
 require_once 'autoload.php';
 
 
-$pathFile = __DIR__ . '/files/data.csv';
+$pathFile = './files/data.txt';
+//$pathFile = __DIR__ . '/files/data.txt';
 $handle = fopen($pathFile, 'a+');
 
-//$str = fread($handle, filesize($pathFile));
+var_dump($handle);
+
+$str = fread($handle, filesize($pathFile));
 //$str = file_get_contents($pathFile);
 $strArray = file($pathFile);
 
-//var_dump($str);
+var_dump($str);
 /*
 foreach ($strArray as $str) {
     printf('<p>%s</p>', $str);
@@ -34,7 +37,7 @@ var_dump($str);*/
 fclose($handle);
 
 
-var_dump(realpath('./../../spring-19/test_files/data.txt'));
+var_dump(realpath('./files/data.txt'));
 
 
 function __autoload ($nameClass) {

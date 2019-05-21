@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="b5f04191-6d8f-4c81-a425-3c80bd906e43" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hw21/file.php" beforeDir="false" afterPath="$PROJECT_DIR$/hw21/file.php" afterDir="false" />
+=======
+    <list default="true" id="2b30ad3b-e7c7-475b-9c27-50d4a79fd544" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw21/.idea/php-test-framework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw21/src/Xml/Read.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HomeWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HomeWork.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw21/Csv/Read.php" beforeDir="false" afterPath="$PROJECT_DIR$/hw21/src/Csv/Read.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw21/Csv/Write.php" beforeDir="false" afterPath="$PROJECT_DIR$/hw21/src/Csv/Write.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw21/Xml/Read.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw21/Xml/Write.php" beforeDir="false" afterPath="$PROJECT_DIR$/hw21/src/Xml/Write.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw21/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/hw21/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw21/dev.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw21/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/hw21/index.php" afterDir="false" />
+>>>>>>> 3ff7e14322352c1fe8284b27d150a00d101dfbed
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,6 +27,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
@@ -18,20 +35,40 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
               <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+=======
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/hw21/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hw21/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+>>>>>>> 3ff7e14322352c1fe8284b27d150a00d101dfbed
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/hw21/files/data.csv">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="81">
               <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+=======
+        <entry file="file://$PROJECT_DIR$/hw21/src/Csv/Read.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+>>>>>>> 3ff7e14322352c1fe8284b27d150a00d101dfbed
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/hw21/files/data.txt">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -41,15 +78,24 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
               <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+=======
+        <entry file="file://$PROJECT_DIR$/hw21/src/Xml/Read.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+>>>>>>> 3ff7e14322352c1fe8284b27d150a00d101dfbed
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hw21/index.php">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
+=======
+>>>>>>> 3ff7e14322352c1fe8284b27d150a00d101dfbed
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -58,6 +104,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/hw21/file.php" />
       </list>
     </option>
@@ -67,6 +114,101 @@
     <option name="y" value="20" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
+=======
+        <option value="$PROJECT_DIR$/hw21/dev.php" />
+        <option value="$PROJECT_DIR$/hw21/Xml/Write.php" />
+        <option value="$PROJECT_DIR$/hw21/data.csv" />
+        <option value="$PROJECT_DIR$/hw21/Csv/Write.php" />
+        <option value="$PROJECT_DIR$/hw21/Csv/Read.php" />
+        <option value="$PROJECT_DIR$/hw21/Xml/Read.php" />
+        <option value="$PROJECT_DIR$/hw21/src/Xml/Read.php" />
+        <option value="$PROJECT_DIR$/hw21/src/Csv/Read.php" />
+        <option value="$PROJECT_DIR$/hw21/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/hw21/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/hw21/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/hw21/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/hw21/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/hw21/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/hw21/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/hw21/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/hw21/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/hw21/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/hw21/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/hw21/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/hw21/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/hw21/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/hw21/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/hw21/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/hw21/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/hw21/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/hw21/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/hw21/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/hw21/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/hw21/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/hw21/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/hw21/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/hw21/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/hw21/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/hw21/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/hw21/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/hw21/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/hw21/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1378" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HomeWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWork" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWork" type="462c0819:PsiDirectoryNode" />
+              <item name="hw21" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWork" type="462c0819:PsiDirectoryNode" />
+              <item name="hw21" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWork" type="462c0819:PsiDirectoryNode" />
+              <item name="hw21" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Csv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWork" type="462c0819:PsiDirectoryNode" />
+              <item name="hw21" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+>>>>>>> 3ff7e14322352c1fe8284b27d150a00d101dfbed
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -101,9 +243,156 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../dbSymfony" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../symfony-demo" />
+>>>>>>> 3ff7e14322352c1fe8284b27d150a00d101dfbed
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\OSPanel\domains\HomeWork\hw21" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25405404" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.48080808" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hw21/dev.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="734" column="14" selection-start-line="734" selection-start-column="9" selection-end-line="734" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw21/Csv/Write.php" />
+    <entry file="file://$PROJECT_DIR$/hw21/Csv/Read.php" />
+    <entry file="uml://PHP/\Xml\Read">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\Xml\Read</OriginalElement>
+          <nodes>
+            <node x="" y="">\Xml\Read</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="103.0" y="42.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constants</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/SimpleXML/SimpleXML.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="208" column="36" lean-forward="true" selection-start-line="208" selection-start-column="36" selection-end-line="208" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw21/Xml/Write.php" />
+    <entry file="file://$PROJECT_DIR$/hw21/Xml/Read.php" />
+    <entry file="file://$PROJECT_DIR$/hw21/data.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw21/data.csv">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw21/composer.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw21/.idea/php-test-framework.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw21/vendor/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw21/.idea/php.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw21/composer.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw21/src/Xml/Read.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw21/src/Csv/Read.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw21/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">

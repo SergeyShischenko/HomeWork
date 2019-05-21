@@ -1,11 +1,21 @@
 <?php
-require_once 'autoload.php';
 
 
-//$file = new File();
+require_once 'vendor/autoload.php';
 
-$file = new Files\File();
-$csvR = new Files\Csv\Read();
-$csvW = new Files\Csv\Write();
-$xmlR = new Files\Xml\Read();
-$xmlW = new Files\Xml\Write();
+
+$readCsv = new \App\Csv\Read();
+$resReadCsv = $readCsv->read('./data.csv');
+var_dump($resReadCsv);
+
+############
+$readXml = new \App\Xml\Read();
+$resReadXml = $readXml->read('./data.xml');
+
+var_dump($resReadXml);
+
+//$endres = (object)array_merge((array)$csvres, (array)$resRead);
+//var_dump($endres);
+
+
+
